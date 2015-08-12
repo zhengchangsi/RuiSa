@@ -1,0 +1,226 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+F:\练习\自己买的\5110显示\5110.uvproj
+Project File Date:  04/19/2011
+
+<h2>Output:</h2>
+Load "F:\\练习\\自己买的\\5110显示\\Object\\5110.AXF" 
+_____^
+*** error 56: cant open file
+Build target '5110'
+compiling 5110LCD.c...
+compiling main.c...
+User\main.c(6): warning:  #1-D: last line of file ends without a newline
+User\main.c:   }
+User\main.c:    ^
+User\main.c: User\main.c: 1 warning, 0 errors
+compiling stm32f10x_it.c...
+assembling startup_stm32f10x_md.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling misc.c...
+linking...
+.\Object\5110.axf: Error: L6218E: Undefined symbol delay_ms (referred from 5110lcd.o).
+.\Object\5110.axf: Not enough information to list image symbols.
+.\Object\5110.axf: Finished: 1 information, 0 warning and 1 error messages.
+Target not created
+Build target '5110'
+compiling main.c...
+linking...
+.\Object\5110.axf: Error: L6218E: Undefined symbol delay_ms (referred from 5110lcd.o).
+.\Object\5110.axf: Not enough information to list image symbols.
+.\Object\5110.axf: Finished: 1 information, 0 warning and 1 error messages.
+Target not created
+Build target '5110'
+compiling 5110LCD.c...
+User\5110LCD.c(2): error:  #147-D: declaration is incompatible with "void delay_ms(volatile uint32_t)" (declared at line 40 of "User\5110LCD.h")
+User\5110LCD.c:   void delay_ms(int t)
+User\5110LCD.c:        ^
+User\5110LCD.c: User\5110LCD.c: 0 warnings, 1 error
+Target not created
+Build target '5110'
+compiling 5110LCD.c...
+linking...
+Program Size: Code=356 RO-data=252 RW-data=0 ZI-data=1632  
+FromELF: creating hex file...
+".\Object\5110.axf" - 0 Error(s), 0 Warning(s).
+Build target '5110'
+compiling main.c...
+linking...
+Program Size: Code=356 RO-data=252 RW-data=0 ZI-data=1632  
+FromELF: creating hex file...
+".\Object\5110.axf" - 0 Error(s), 0 Warning(s).
+Build target '5110'
+compiling 5110LCD.c...
+User\5110LCD.c(4): error:  #20: identifier "TimingDelay" is undefined
+User\5110LCD.c:         TimingDelay=nTime*1000;
+User\5110LCD.c:         ^
+User\5110LCD.c: User\5110LCD.c: 0 warnings, 1 error
+compiling main.c...
+Target not created
+Build target '5110'
+compiling 5110LCD.c...
+User\5110LCD.c(4): error:  #20: identifier "TimingDelay" is undefined
+User\5110LCD.c:         TimingDelay=nTime*1000;
+User\5110LCD.c:         ^
+User\5110LCD.c: User\5110LCD.c: 0 warnings, 1 error
+compiling main.c...
+Target not created
+Build target '5110'
+compiling 5110LCD.c...
+compiling main.c...
+linking...
+Program Size: Code=356 RO-data=252 RW-data=0 ZI-data=1632  
+FromELF: creating hex file...
+".\Object\5110.axf" - 0 Error(s), 0 Warning(s).
+Build target '5110'
+compiling main.c...
+linking...
+Program Size: Code=2192 RO-data=268 RW-data=20 ZI-data=1636  
+FromELF: creating hex file...
+".\Object\5110.axf" - 0 Error(s), 0 Warning(s).
+Build target '5110'
+compiling main.c...
+linking...
+Program Size: Code=3020 RO-data=1156 RW-data=32 ZI-data=1632  
+FromELF: creating hex file...
+".\Object\5110.axf" - 0 Error(s), 0 Warning(s).
+Build target '5110'
+linking...
+Program Size: Code=3020 RO-data=1156 RW-data=32 ZI-data=1632  
+FromELF: creating hex file...
+".\Object\5110.axf" - 0 Error(s), 0 Warning(s).
+Build target '5110'
+compiling 5110LCD.c...
+compiling main.c...
+User\main.c(21): error:  #6: comment unclosed at end of file
+User\main.c:   /**********************************************************************
+User\main.c:   ^
+User\main.c: User\main.c: 0 warnings, 1 error
+Target not created
+Build target '5110'
+compiling main.c...
+User\main.c(22): error:  #7: unrecognized token
+User\main.c:   * 名    称：GPIO_Configuration()
+User\main.c:     ^
+User\main.c(22): error:  #40: expected an identifier
+User\main.c:   * 名    称：GPIO_Configuration()
+User\main.c:     ^
+User\main.c(22): error:  #7: unrecognized token
+User\main.c:   * 名    称：GPIO_Configuration()
+User\main.c:      ^
+User\main.c(22): error:  #7: unrecognized token
+User\main.c:   * 名    称：GPIO_Configuration()
+User\main.c:           ^
+User\main.c(22): error:  #7: unrecognized token
+User\main.c:   * 名    称：GPIO_Configuration()
+User\main.c:            ^
+User\main.c(22): error:  #7: unrecognized token
+User\main.c:   * 名    称：GPIO_Configuration()
+User\main.c:             ^
+User\main.c(22): error:  #7: unrecognized token
+User\main.c:   * 名    称：GPIO_Configuration()
+User\main.c:              ^
+User\main.c(23): error:  #130: expected a "{"
+User\main.c:   * 功    能：配置输入输出
+User\main.c:   ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:     ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:      ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:           ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:            ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:             ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:              ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:               ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                 ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                  ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                   ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                    ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                     ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                      ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                       ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                        ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                         ^
+User\main.c(23): error:  #7: unrecognized token
+User\main.c:   * 功    能：配置输入输出
+User\main.c:                          ^
+User\main.c(24): error:  #7: unrecognized token
+User\main.c:   * 入口参数： 
+User\main.c:     ^
+User\main.c(24): error:  #7: unrecognized token
+User\main.c:   * 入口参数： 
+User\main.c:      ^
+User\main.c(24): error:  #7: unrecognized token
+User\main.c:   * 入口参数： 
+User\main.c:       ^
+User\main.c(24): error:  #7: unrecognized token
+User\main.c:   * 入口参数： 
+User\main.c:        ^
+User\main.c: User\main.c: 0 warnings, 30 errors
+Target not created
+Build target '5110'
+compiling main.c...
+User\main.c(32): error:  #20: identifier "backled1" is undefined
+User\main.c:            backled1;
+User\main.c:            ^
+User\main.c: User\main.c: 0 warnings, 1 error
+Target not created
+Build target '5110'
+compiling 5110LCD.c...
+compiling main.c...
+compiling stm32f10x_it.c...
+assembling startup_stm32f10x_md.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling misc.c...
+linking...
+Program Size: Code=2984 RO-data=1156 RW-data=32 ZI-data=1632  
+FromELF: creating hex file...
+".\Object\5110.axf" - 0 Error(s), 0 Warning(s).
+Build target '5110'
+compiling main.c...
+linking...
+Program Size: Code=2984 RO-data=1156 RW-data=32 ZI-data=1632  
+FromELF: creating hex file...
+".\Object\5110.axf" - 0 Error(s), 0 Warning(s).

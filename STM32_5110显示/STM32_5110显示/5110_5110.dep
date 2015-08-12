@@ -1,0 +1,114 @@
+Dependencies for Project '5110', Target '5110': (DO NOT MODIFY !)
+F (.\User\5110LCD.c)(0x55CB6655)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\CMSIS -I.\Driver\inc -I.\Driver\src -I.\StartUp -I.\User-I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\object\5110lcd.o --omf_browse .\object\5110lcd.crf --depend .\object\5110lcd.d)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\5110LCD.h)(0x55CB6954)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\core_cm3.h)(0x4A406E4C)
+I (D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h)(0x3BEB19E6)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\system_stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\stm32f10x_conf.h)(0x4A406E58)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_exti.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_fsmc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_gpio.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_rcc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_spi.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_usart.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\misc.h)(0x4A406E4C)
+F (.\User\main.c)(0x55CB8B67)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\CMSIS -I.\Driver\inc -I.\Driver\src -I.\StartUp -I.\User-I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\object\main.o --omf_browse .\object\main.crf --depend .\object\main.d)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\core_cm3.h)(0x4A406E4C)
+I (D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h)(0x3BEB19E6)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\system_stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\stm32f10x_conf.h)(0x4A406E58)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_exti.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_fsmc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_gpio.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_rcc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_spi.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_usart.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\misc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\5110LCD.h)(0x55CB6954)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\key.h)(0x55CB8351)
+F (.\User\stm32f10x_it.c)(0x4A406E58)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\CMSIS -I.\Driver\inc -I.\Driver\src -I.\StartUp -I.\User-I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\object\stm32f10x_it.o --omf_browse .\object\stm32f10x_it.crf --depend .\object\stm32f10x_it.d)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\stm32f10x_it.h)(0x4A406E58)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\core_cm3.h)(0x4A406E4C)
+I (D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h)(0x3BEB19E6)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\system_stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\stm32f10x_conf.h)(0x4A406E58)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_exti.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_fsmc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_gpio.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_rcc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_spi.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_usart.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\misc.h)(0x4A406E4C)
+F (.\User\5110LCD.h)(0x55CB6954)()
+F (.\User\key.c)(0x55CB8423)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\CMSIS -I.\Driver\inc -I.\Driver\src -I.\StartUp -I.\User-I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\object\key.o --omf_browse .\object\key.crf --depend .\object\key.d)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\key.h)(0x55CB8351)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\core_cm3.h)(0x4A406E4C)
+I (D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h)(0x3BEB19E6)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\system_stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\stm32f10x_conf.h)(0x4A406E58)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_exti.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_fsmc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_gpio.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_rcc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_spi.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_usart.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\misc.h)(0x4A406E4C)
+F (.\StartUp\startup_stm32f10x_md.s)(0x4A406E4C)(--cpu Cortex-M3 -g --apcs=interwork -I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"--list .\listing\startup_stm32f10x_md.lst --xref -o .\object\startup_stm32f10x_md.o --depend .\object\startup_stm32f10x_md.d)
+F (.\CMSIS\core_cm3.c)(0x4A406E4C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\CMSIS -I.\Driver\inc -I.\Driver\src -I.\StartUp -I.\User-I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\object\core_cm3.o --omf_browse .\object\core_cm3.crf --depend .\object\core_cm3.d)
+I (D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h)(0x3BEB19E6)
+F (.\CMSIS\system_stm32f10x.c)(0x4A406E4C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\CMSIS -I.\Driver\inc -I.\Driver\src -I.\StartUp -I.\User-I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\object\system_stm32f10x.o --omf_browse .\object\system_stm32f10x.crf --depend .\object\system_stm32f10x.d)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\core_cm3.h)(0x4A406E4C)
+I (D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h)(0x3BEB19E6)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\system_stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\stm32f10x_conf.h)(0x4A406E58)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_exti.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_fsmc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_gpio.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_rcc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_spi.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_usart.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\misc.h)(0x4A406E4C)
+F (.\Driver\src\stm32f10x_gpio.c)(0x4A406E4C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\CMSIS -I.\Driver\inc -I.\Driver\src -I.\StartUp -I.\User-I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\object\stm32f10x_gpio.o --omf_browse .\object\stm32f10x_gpio.crf --depend .\object\stm32f10x_gpio.d)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_gpio.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\core_cm3.h)(0x4A406E4C)
+I (D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h)(0x3BEB19E6)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\system_stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\stm32f10x_conf.h)(0x4A406E58)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_exti.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_fsmc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_rcc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_spi.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_usart.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\misc.h)(0x4A406E4C)
+F (.\Driver\src\stm32f10x_rcc.c)(0x4A406E4C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\CMSIS -I.\Driver\inc -I.\Driver\src -I.\StartUp -I.\User-I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\object\stm32f10x_rcc.o --omf_browse .\object\stm32f10x_rcc.crf --depend .\object\stm32f10x_rcc.d)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_rcc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\core_cm3.h)(0x4A406E4C)
+I (D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h)(0x3BEB19E6)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\system_stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\stm32f10x_conf.h)(0x4A406E58)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_exti.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_fsmc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_gpio.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_spi.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_usart.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\misc.h)(0x4A406E4C)
+F (.\Driver\src\misc.c)(0x4A406E4C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\CMSIS -I.\Driver\inc -I.\Driver\src -I.\StartUp -I.\User-I "D:\Program Files (x86)\Keil 4.72\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include"-I "D:\Program Files (x86)\Keil 4.72\ARM\Inc\ST\STM32F10x"-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\object\misc.o --omf_browse .\object\misc.crf --depend .\object\misc.d)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\misc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\core_cm3.h)(0x4A406E4C)
+I (D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h)(0x3BEB19E6)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\CMSIS\system_stm32f10x.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\User\stm32f10x_conf.h)(0x4A406E58)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_exti.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_fsmc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_gpio.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_rcc.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_spi.h)(0x4A406E4C)
+I (E:\GitHub\RuiSa\STM32_5110显示\STM32_5110显示\Driver\inc\stm32f10x_usart.h)(0x4A406E4C)

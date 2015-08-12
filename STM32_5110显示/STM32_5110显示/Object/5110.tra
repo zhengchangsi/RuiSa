@@ -1,0 +1,27 @@
+*** Creating Trace Output File '.\Object\5110.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\object\5110lcd.o"'
+### List of Objects: adding '".\object\main.o"'
+### List of Objects: adding '".\object\stm32f10x_it.o"'
+### List of Objects: adding '".\object\startup_stm32f10x_md.o"'
+### List of Objects: adding '".\object\core_cm3.o"'
+### List of Objects: adding '".\object\system_stm32f10x.o"'
+### List of Objects: adding '".\object\stm32f10x_gpio.o"'
+### List of Objects: adding '".\object\stm32f10x_rcc.o"'
+### List of Objects: adding '".\object\misc.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\object\5110lcd.o" ".\object\main.o" ".\object\stm32f10x_it.o" ".\object\startup_stm32f10x_md.o" ".\object\core_cm3.o" ".\object\system_stm32f10x.o" ".\object\stm32f10x_gpio.o" ".\object\stm32f10x_rcc.o" ".\object\misc.o" --strict --scatter ".\Object\5110.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Listing\5110.map" -o ".\Object\5110.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Object\5110.axf'
+### ADS-LD Command File: '.\Object\5110.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Object\5110.lnp', Handle=0x000003B0
+### Writing '.lnp' file
+### ADS-LD Command file '.\Object\5110.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

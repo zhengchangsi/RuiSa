@@ -1,0 +1,15 @@
+--cpu Cortex-M3
+".\object\5110lcd.o"
+".\object\main.o"
+".\object\stm32f10x_it.o"
+".\object\key.o"
+".\object\startup_stm32f10x_md.o"
+".\object\core_cm3.o"
+".\object\system_stm32f10x.o"
+".\object\stm32f10x_gpio.o"
+".\object\stm32f10x_rcc.o"
+".\object\misc.o"
+--strict --scatter ".\Object\5110.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listing\5110.map" -o .\Object\5110.axf
