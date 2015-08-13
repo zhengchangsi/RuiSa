@@ -207,18 +207,17 @@ uint16_t GetData_MPU6050(uint8_t REG_Address)
  ************************************/
 uint8_t Read_Filter_MPU6050(void)
 {
-	//static uint8_t	GYRO_OFFSET_OK = 0;
-   static uint8_t	ACC_OFFSET_OK  = 0;
+  static uint8_t	ACC_OFFSET_OK  = 0;
 	static uint8_t filter_cnt= 0;
   static int16_t	ACC_X_BUF[MPU6050_FILTER_NUM],ACC_Y_BUF[MPU6050_FILTER_NUM],ACC_Z_BUF[MPU6050_FILTER_NUM];		
 	int32_t temp1=0,temp2=0,temp3=0;
 	uint8_t i;
 	
-	ACC_OFFSET.X=0;
+	ACC_OFFSET.X=0;//定义加速度零偏
 	ACC_OFFSET.Y=0;
 	ACC_OFFSET.Z=0;
 	#if 1
-	GYRO_OFFSET.X=-45;
+	GYRO_OFFSET.X=-45;//定义角速度零偏
 	GYRO_OFFSET.Y=0;
 	GYRO_OFFSET.Z=15;
 	#endif
