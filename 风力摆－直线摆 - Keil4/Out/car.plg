@@ -7,3 +7,148 @@ E:\GitHub\RuiSa\风力摆－直线摆 - Keil4\Car.uvproj
 Project File Date:  08/13/2015
 
 <h2>Output:</h2>
+Load "E:\\GitHub\\RuiSa\\风力摆－直线摆 - Keil4\\Out\\car.axf" 
+Set JLink Project File to "E:\GitHub\RuiSa\风力摆－直线摆 - Keil4\JLinkSettings.ini"
+* JLink Info: Device "STM32F103VC" selected (256 KB flash, 48 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20150829 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Load "E:\\GitHub\\RuiSa\\风力摆－直线摆 - Keil4\\Out\\car.axf" 
+Set JLink Project File to "E:\GitHub\RuiSa\风力摆－直线摆 - Keil4\JLinkSettings.ini"
+* JLink Info: Device "STM32F103VC" selected (256 KB flash, 48 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20150829 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Load "E:\\GitHub\\RuiSa\\风力摆－直线摆 - Keil4\\Out\\car.axf" 
+Set JLink Project File to "E:\GitHub\RuiSa\风力摆－直线摆 - Keil4\JLinkSettings.ini"
+* JLink Info: Device "STM32F103VC" selected (256 KB flash, 48 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20150829 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Load "E:\\GitHub\\RuiSa\\风力摆－直线摆 - Keil4\\Out\\car.axf" 
+Set JLink Project File to "E:\GitHub\RuiSa\风力摆－直线摆 - Keil4\JLinkSettings.ini"
+* JLink Info: Device "STM32F103VC" selected (256 KB flash, 48 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20150829 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Load "E:\\GitHub\\RuiSa\\风力摆－直线摆 - Keil4\\Out\\car.axf" 
+Set JLink Project File to "E:\GitHub\RuiSa\风力摆－直线摆 - Keil4\JLinkSettings.ini"
+* JLink Info: Device "STM32F103VC" selected (256 KB flash, 48 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20150829 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(204): warning:  #177-D: variable "huanxiang" was declared but never referenced
+main.c(204): warning:  #177-D: variable "flag" was declared but never referenced
+main.c(205): warning:  #177-D: variable "i" was declared but never referenced
+main.c(206): warning:  #177-D: variable "set_pit" was declared but never referenced
+main.c(206): warning:  #177-D: variable "set_rol" was declared but never referenced
+main.c(207): warning:  #177-D: variable "dif_pit" was declared but never referenced
+main.c(207): warning:  #177-D: variable "dif_rol" was declared but never referenced
+main.c(208): warning:  #177-D: variable "last_pit" was declared but never referenced
+main.c(209): warning:  #177-D: variable "Change" was declared but never referenced
+main.c(210): warning:  #177-D: variable "Motor_Speed" was declared but never referenced
+compiling mpu6050.c...
+compiling sys.c...
+compiling timer.c...
+TIMER\timer.c(126): warning:  #1-D: last line of file ends without a newline
+compiling delay.c...
+compiling uart_config.c...
+compiling enconder.c...
+compiling led.c...
+compiling IMU.c...
+compiling control.c...
+control\control.c(109): warning:  #550-D: variable "dir" was set but never used
+compiling oled.c...
+compiling adc.c...
+assembling startup_stm32f10x_md.s...
+compiling system_stm32f10x.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_can.c...
+compiling stm32f10x_cec.c...
+compiling stm32f10x_crc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_i2c.c...
+compiling stm32f10x_iwdg.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_wwdg.c...
+compiling misc.c...
+linking...
+Program Size: Code=15604 RO-data=508 RW-data=176 ZI-data=2328  
+FromELF: creating hex file...
+".\Out\car.axf" - 0 Errors, 12 Warning(s).
+Load "E:\\GitHub\\RuiSa\\风力摆－直线摆 - Keil4\\Out\\car.axf" 
+Set JLink Project File to "E:\GitHub\RuiSa\风力摆－直线摆 - Keil4\JLinkSettings.ini"
+* JLink Info: Device "STM32F103VC" selected (256 KB flash, 48 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20150829 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+Load "E:\\GitHub\\RuiSa\\风力摆－直线摆 - Keil4\\Out\\car.axf" 
+Set JLink Project File to "E:\GitHub\RuiSa\风力摆－直线摆 - Keil4\JLinkSettings.ini"
+* JLink Info: Device "STM32F103VC" selected (256 KB flash, 48 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20150829 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.

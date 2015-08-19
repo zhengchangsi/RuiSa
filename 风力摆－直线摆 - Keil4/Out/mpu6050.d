@@ -1,9 +1,9 @@
 .\out\mpu6050.o: MPU6050\mpu6050.c
 .\out\mpu6050.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
-.\out\mpu6050.o: E:\Software\Electronic\MDK511\ARM\CMSIS\Include\core_cm3.h
-.\out\mpu6050.o: E:\Software\Electronic\MDK511\ARM\ARMCC\bin\..\include\stdint.h
-.\out\mpu6050.o: E:\Software\Electronic\MDK511\ARM\CMSIS\Include\core_cmInstr.h
-.\out\mpu6050.o: E:\Software\Electronic\MDK511\ARM\CMSIS\Include\core_cmFunc.h
+.\out\mpu6050.o: D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include\core_cm3.h
+.\out\mpu6050.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h
+.\out\mpu6050.o: D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include\core_cmInstr.h
+.\out\mpu6050.o: D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include\core_cmFunc.h
 .\out\mpu6050.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\out\mpu6050.o: .\stm32f10x_conf.h
 .\out\mpu6050.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -32,6 +32,6 @@
 .\out\mpu6050.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\out\mpu6050.o: .\SYS\sys.h
 .\out\mpu6050.o: MPU6050\mpu6050.h
-.\out\mpu6050.o: E:\Software\Electronic\MDK511\ARM\ARMCC\bin\..\include\stdio.h
+.\out\mpu6050.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdio.h
 .\out\mpu6050.o: .\DELAY\delay.h
 .\out\mpu6050.o: .\OLED\oled.h

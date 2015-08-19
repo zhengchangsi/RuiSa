@@ -1,9 +1,9 @@
 .\out\system_stm32f10x.o: Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.c
 .\out\system_stm32f10x.o: Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
-.\out\system_stm32f10x.o: E:\Software\Electronic\MDK511\ARM\CMSIS\Include\core_cm3.h
-.\out\system_stm32f10x.o: E:\Software\Electronic\MDK511\ARM\ARMCC\bin\..\include\stdint.h
-.\out\system_stm32f10x.o: E:\Software\Electronic\MDK511\ARM\CMSIS\Include\core_cmInstr.h
-.\out\system_stm32f10x.o: E:\Software\Electronic\MDK511\ARM\CMSIS\Include\core_cmFunc.h
+.\out\system_stm32f10x.o: D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include\core_cm3.h
+.\out\system_stm32f10x.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h
+.\out\system_stm32f10x.o: D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include\core_cmInstr.h
+.\out\system_stm32f10x.o: D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include\core_cmFunc.h
 .\out\system_stm32f10x.o: Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\out\system_stm32f10x.o: .\stm32f10x_conf.h
 .\out\system_stm32f10x.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

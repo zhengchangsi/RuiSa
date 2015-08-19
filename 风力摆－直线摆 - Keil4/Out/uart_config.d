@@ -1,9 +1,9 @@
 .\out\uart_config.o: uart_config\uart_config.c
 .\out\uart_config.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
-.\out\uart_config.o: E:\Software\Electronic\MDK511\ARM\CMSIS\Include\core_cm3.h
-.\out\uart_config.o: E:\Software\Electronic\MDK511\ARM\ARMCC\bin\..\include\stdint.h
-.\out\uart_config.o: E:\Software\Electronic\MDK511\ARM\CMSIS\Include\core_cmInstr.h
-.\out\uart_config.o: E:\Software\Electronic\MDK511\ARM\CMSIS\Include\core_cmFunc.h
+.\out\uart_config.o: D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include\core_cm3.h
+.\out\uart_config.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h
+.\out\uart_config.o: D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include\core_cmInstr.h
+.\out\uart_config.o: D:\Program Files (x86)\Keil 4.72\ARM\CMSIS\Include\core_cmFunc.h
 .\out\uart_config.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\out\uart_config.o: .\stm32f10x_conf.h
 .\out\uart_config.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -32,5 +32,5 @@
 .\out\uart_config.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\out\uart_config.o: .\control\control.h
 .\out\uart_config.o: .\SYS\sys.h
-.\out\uart_config.o: E:\Software\Electronic\MDK511\ARM\ARMCC\bin\..\include\math.h
-.\out\uart_config.o: E:\Software\Electronic\MDK511\ARM\ARMCC\bin\..\include\stdio.h
+.\out\uart_config.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\math.h
+.\out\uart_config.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdio.h

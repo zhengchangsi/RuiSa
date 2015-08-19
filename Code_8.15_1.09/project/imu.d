@@ -1,0 +1,34 @@
+.\imu.o: ..\code\MPU6050\IMU.c
+.\imu.o: ..\code\MPU6050\mpu6050.h
+.\imu.o: ..\code\delay\sys.h
+.\imu.o: ..\system\inc\misc.h
+.\imu.o: ..\system\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\imu.o: ..\system\CM3\CoreSupport\core_cm3.h
+.\imu.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h
+.\imu.o: ..\system\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\imu.o: ..\system\stm32f10x_conf.h
+.\imu.o: ..\system\inc\stm32f10x_adc.h
+.\imu.o: ..\system\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\imu.o: ..\system\inc\stm32f10x_bkp.h
+.\imu.o: ..\system\inc\stm32f10x_can.h
+.\imu.o: ..\system\inc\stm32f10x_cec.h
+.\imu.o: ..\system\inc\stm32f10x_crc.h
+.\imu.o: ..\system\inc\stm32f10x_dac.h
+.\imu.o: ..\system\inc\stm32f10x_dbgmcu.h
+.\imu.o: ..\system\inc\stm32f10x_dma.h
+.\imu.o: ..\system\inc\stm32f10x_exti.h
+.\imu.o: ..\system\inc\stm32f10x_flash.h
+.\imu.o: ..\system\inc\stm32f10x_fsmc.h
+.\imu.o: ..\system\inc\stm32f10x_gpio.h
+.\imu.o: ..\system\inc\stm32f10x_i2c.h
+.\imu.o: ..\system\inc\stm32f10x_iwdg.h
+.\imu.o: ..\system\inc\stm32f10x_pwr.h
+.\imu.o: ..\system\inc\stm32f10x_rcc.h
+.\imu.o: ..\system\inc\stm32f10x_rtc.h
+.\imu.o: ..\system\inc\stm32f10x_sdio.h
+.\imu.o: ..\system\inc\stm32f10x_spi.h
+.\imu.o: ..\system\inc\stm32f10x_tim.h
+.\imu.o: ..\system\inc\stm32f10x_usart.h
+.\imu.o: ..\system\inc\stm32f10x_wwdg.h
+.\imu.o: ..\system\inc\misc.h
+.\imu.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\math.h

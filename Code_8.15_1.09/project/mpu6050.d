@@ -1,0 +1,33 @@
+.\mpu6050.o: ..\code\MPU6050\mpu6050.c
+.\mpu6050.o: ..\system\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\mpu6050.o: ..\system\CM3\CoreSupport\core_cm3.h
+.\mpu6050.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h
+.\mpu6050.o: ..\system\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\mpu6050.o: ..\system\stm32f10x_conf.h
+.\mpu6050.o: ..\system\inc\stm32f10x_adc.h
+.\mpu6050.o: ..\system\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\mpu6050.o: ..\system\inc\stm32f10x_bkp.h
+.\mpu6050.o: ..\system\inc\stm32f10x_can.h
+.\mpu6050.o: ..\system\inc\stm32f10x_cec.h
+.\mpu6050.o: ..\system\inc\stm32f10x_crc.h
+.\mpu6050.o: ..\system\inc\stm32f10x_dac.h
+.\mpu6050.o: ..\system\inc\stm32f10x_dbgmcu.h
+.\mpu6050.o: ..\system\inc\stm32f10x_dma.h
+.\mpu6050.o: ..\system\inc\stm32f10x_exti.h
+.\mpu6050.o: ..\system\inc\stm32f10x_flash.h
+.\mpu6050.o: ..\system\inc\stm32f10x_fsmc.h
+.\mpu6050.o: ..\system\inc\stm32f10x_gpio.h
+.\mpu6050.o: ..\system\inc\stm32f10x_i2c.h
+.\mpu6050.o: ..\system\inc\stm32f10x_iwdg.h
+.\mpu6050.o: ..\system\inc\stm32f10x_pwr.h
+.\mpu6050.o: ..\system\inc\stm32f10x_rcc.h
+.\mpu6050.o: ..\system\inc\stm32f10x_rtc.h
+.\mpu6050.o: ..\system\inc\stm32f10x_sdio.h
+.\mpu6050.o: ..\system\inc\stm32f10x_spi.h
+.\mpu6050.o: ..\system\inc\stm32f10x_tim.h
+.\mpu6050.o: ..\system\inc\stm32f10x_usart.h
+.\mpu6050.o: ..\system\inc\stm32f10x_wwdg.h
+.\mpu6050.o: ..\system\inc\misc.h
+.\mpu6050.o: ..\code\delay\sys.h
+.\mpu6050.o: ..\code\MPU6050\mpu6050.h
+.\mpu6050.o: D:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdio.h
